@@ -3,3 +3,4 @@
 *.gif
 *.m~
 *.asv
+ __pycache__/
